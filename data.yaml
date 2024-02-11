@@ -1,0 +1,12 @@
+names:
+- tables
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pdf-sa0sp
+  url: https://universe.roboflow.com/tsec-hacks-2024/pdf-sa0sp/dataset/1
+  version: 1
+  workspace: tsec-hacks-2024
+test: ../test/images
+train: PDF-1/train/images
+val: PDF-1/valid/images
